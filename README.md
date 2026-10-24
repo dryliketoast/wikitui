@@ -1,7 +1,10 @@
 # wikitui
 
-Terminal browser for a [BookStack](https://www.bookstackapp.com/) wiki
-(set your instance URL via `WIKI_URL` or the config file; the built-in default is the placeholder `https://wiki.example.com`) with Markdown rendering, built on Textual.
+Terminal browser for a [BookStack](https://www.bookstackapp.com/) wiki with Markdown
+rendering, built on Textual. Point it at your instance with `WIKI_URL` or the config
+file below (the built-in default is the placeholder `https://wiki.example.com`).
+
+![wikitui demo](docs/demo.gif)
 
 ## Setup
 
